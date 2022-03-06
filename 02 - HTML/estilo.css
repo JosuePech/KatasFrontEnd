@@ -1,0 +1,23 @@
+*{
+	font-family: Roboto, Helvetica;
+}
+body {
+	background-color: #fff697;
+}
+a{
+	color: BLACK;
+	text-decoration: none;
+}
+.active{
+	color: RED;
+	font-weight: bold;
+}
+.menu li{
+    display:inline;
+    padding-left:3px;
+    padding-right:3px;
+}
+table, th, td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
